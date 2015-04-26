@@ -1,4 +1,4 @@
-# [NOUCHE.NET](nouche.net)
+# [NOUCHE.NET](http://www.nouche.net)
 
 nouche.net is a site to promote creative image, threed and animation development
 
